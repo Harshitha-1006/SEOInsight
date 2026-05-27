@@ -1,5 +1,6 @@
 package com.seoanalyzer.seo_tool.entity;
 
-public class user {
-
+public enum Role {
+    USER,
+    ADMIN
 }
